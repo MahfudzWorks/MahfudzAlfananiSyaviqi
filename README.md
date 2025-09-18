@@ -1,5 +1,3 @@
-# MahfudzAlfananiSyaviqi
-
 # 👋 Hi, I’m Mahfudz Alfanani Syaviqi  
 
 🎓 Fresh Graduate – Informatics Engineering @ Universitas Muhammadiyah Gresik (2025)  
