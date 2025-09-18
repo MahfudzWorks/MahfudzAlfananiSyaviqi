@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/me_illustration.png" />
+<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" />
 
 ### 🔧 Tech Stack  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
